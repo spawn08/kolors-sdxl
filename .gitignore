@@ -1,0 +1,8 @@
+weights
+*.egg-info
+__pycache__
+*.pyc
+.DS_Store
+.pypirc
+dist
+pyvenv.cfg
